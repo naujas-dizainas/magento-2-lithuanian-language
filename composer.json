@@ -3,7 +3,7 @@
   "description": "Lithuanian language package for Magento 2",
   "homepage": "https://www.naujasdizainas.com",
   "type": "magento2-language",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "prefer-stable": true,
   "license": [
     "MIT"
