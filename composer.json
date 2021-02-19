@@ -1,5 +1,5 @@
 {
-  "name": "naujasdizainas/language-lt_lt",
+  "name": "naujas-dizainas/magento-2-lithuanian-language",
   "description": "Lithuanian language package for Magento 2",
   "homepage": "https://www.naujasdizainas.com",
   "type": "magento2-language",
@@ -16,10 +16,6 @@
       "role": "Leader"
     }
   ],
-  "version": "100.4.2",
-    "require": {
-        "magento/framework": "103.0.*"
-    },
   "autoload": {
     "files": [
       "registration.php"
